@@ -1,1 +1,0 @@
-https://repl.it/@JiangHe/Databases-Lab-1-Introduction-to-SQL-1#main.sql
